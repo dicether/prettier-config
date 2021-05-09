@@ -1,0 +1,11 @@
+{
+  "name": "@dicether/prettier-config",
+  "version": "1.0.0",
+  "description": "Dicether Prettier config",
+  "main": "index.json",
+  "keywords": [
+    "Prettier"
+  ],
+  "author": "leroldary",
+  "license": "MIT"
+}
